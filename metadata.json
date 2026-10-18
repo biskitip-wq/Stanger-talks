@@ -1,0 +1,6 @@
+{
+  "name": "Stranger Friends",
+  "description": "Real-time anonymous and direct stranger messaging app with custom profiles, live active user directory, random matching, and zero fake bots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
